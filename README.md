@@ -2,7 +2,7 @@
 
 [Combined Cycle Power Plant]
 
-**PowerOpt AI** is a cutting-edge, machine-learning-powered web dashboard designed to predict the electrical energy output of a Combined Cycle Power Plant (CCPP) in real-time. Built specifically for the **Tech Builder Program Hackathon 2026**, this project takes raw sensor data and transforms it into actionable insights to help grid operators optimize power dispatch and reduce operational waste.
+**PowerOpt AI** is a cutting-edge, machine-learning-powered web dashboard designed to predict the electrical energy output of a Combined Cycle Power Plant (CCPP) in real-time. Built specifically for the  insights and analysis, this project takes raw sensor data and transforms it into actionable insights to help grid operators optimize power dispatch and reduce operational waste.
 
 ---
 
